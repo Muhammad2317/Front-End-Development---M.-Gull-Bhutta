@@ -4,7 +4,8 @@ Hi! Welcome to my Github profile!
 
 About Me
 
-I am a passionate and determined person who is pursuing a career as a front-end developer. My focus is on developing websites and web applications that are visually stunning, easy to use, and cretive.
+I was born in Pakistan, moved to Italy (i lived there most of my life) and currently living in England. I can speak fluent urdu and italian language and i can speak pretty good english aswell.
+I am a passionate and determined person who is aiming to become a professional front-end developer. My focus is on developing websites and web applications that are visually stunning, easy to use and cretive.
 As an aprentice, I understand the importance of collaboration, communication, and attention to detail. I am a team player who is always open to feedback and constructive criticism, and I am committed to delivering top-quality work on time and on budget.
 
 Skills 
