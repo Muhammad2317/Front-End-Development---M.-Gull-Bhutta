@@ -17,7 +17,7 @@ Social Media Links
 
 <style>
             img {
-                border-radis: 5px;
+                border-radis: 10px;
                 width: 40ox;
             }
 </style>
