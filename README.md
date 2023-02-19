@@ -1,14 +1,15 @@
-this is a website that talks about gaming topics like gaming products, esports, news and of course GAMES.
-there will be different game versions for each console. This will be better covered in the website.
+Hi! Welcome to my Github profile!
 
-Pages
-Home  - this will contain the stuff that i want the user to focus. The content in this page will be a mix of the other pages so that i can link to them with a button.
+I am a passionate and determined person who is pursuing a career as a front-end developer. My focus is on developing websites and web applications that are visually stunning, easy to use, and cretive.
 
-Shop  - this will be the place where users can actually see the games and other products with a price and reccomendation on where to buy it. When the user clicks on one of these games they will be redirected on amazon to actually buy it. I'm thinking of changing the name of this page to 'Best Buy' so that the user can have better/different expectations on the content and purpose of that page.
+I am proficient in HTML5, CSS3, JavaScript, and ReactJS, and I am always eager to learn new technologies and frameworks to expand my skillset. I enjoy working with cutting-edge tools and techniques to create user-friendly interfaces that engage and delight users.
 
-Categories  - this page will contain many different type of games like FPS, sport games, open worlds etc. There will also be a 'suggested for you' category that will be a mix of trending and popular games.
+As an aprentice, I understand the importance of collaboration, communication, and attention to detail. I am a team player who is always open to feedback and constructive criticism, and I am committed to delivering top-quality work on time and on budget.
 
-Esports  - this page will be about professional level gaming, tournaments and their team for each game.
+Social Media Links
+Instagram: [insert link to your Instagram account here]
+Twitter: [insert link to your Twitter account here]
+CodeSandbox: [insert link to your CodeSandbox account here]
 
-News - this page will contain news about games, ratings, gaming products and their pricings.
+I am excited to be a part of the dynamic and rapidly evolving field of web development, and I look forward to sharing my passion and expertise with others. Thank you for taking the time to visit my profile. Let's connect and collaborate on some awesome projects!
 
