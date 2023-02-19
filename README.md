@@ -1,4 +1,4 @@
-<img src='file:///C:/Users/beaut/Downloads/Frame%2021.png' alt='MyBanner'/>
+<img src='https://www.figma.com/file/8Qb1hYcHxfnvpUeuO8rjRP/Untitled?node-id=69%3A2&t=AdPvkCdSHoSaSJ40-4' alt='MyBanner'/>
 
 Hi! Welcome to my Github profile!
 
