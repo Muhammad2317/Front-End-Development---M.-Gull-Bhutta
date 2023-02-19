@@ -14,6 +14,7 @@ Social Media Links
 <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
 <img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/>
 <img text-align='center' src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/>
+<img src='https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.png'/>
 
 I am excited to be a part of the dynamic and rapidly evolving field of web development, and I look forward to sharing my passion and expertise with others. Thank you for taking the time to visit my profile. Let's connect and collaborate on some awesome projects!
 
