@@ -1,3 +1,5 @@
+<img src='file:///C:/Users/beaut/Downloads/Frame%2021.png' alt='MyBanner'/>
+
 Hi! Welcome to my Github profile!
 
 I am a passionate and determined person who is pursuing a career as a front-end developer. My focus is on developing websites and web applications that are visually stunning, easy to use, and cretive.
