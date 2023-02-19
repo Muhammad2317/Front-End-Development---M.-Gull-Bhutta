@@ -11,7 +11,7 @@ As an aprentice, I understand the importance of collaboration, communication, an
 Social Media Links
 Instagram: [insert link to your Instagram account here]
 Twitter: [insert link to your Twitter account here]
-<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/>
+<img display='inline' src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white'/>
 CodeSandbox: [insert link to your CodeSandbox account here]
 
 I am excited to be a part of the dynamic and rapidly evolving field of web development, and I look forward to sharing my passion and expertise with others. Thank you for taking the time to visit my profile. Let's connect and collaborate on some awesome projects!
