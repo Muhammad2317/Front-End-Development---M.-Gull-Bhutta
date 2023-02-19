@@ -7,7 +7,7 @@ About Me
 I am a passionate and determined person who is pursuing a career as a front-end developer. My focus is on developing websites and web applications that are visually stunning, easy to use, and cretive.
 As an aprentice, I understand the importance of collaboration, communication, and attention to detail. I am a team player who is always open to feedback and constructive criticism, and I am committed to delivering top-quality work on time and on budget.
 
-Skills
+Skills 
 
 I am proficient in HTML5, CSS3, JavaScript, and ReactJS, and I am always eager to learn new technologies and frameworks to expand my skillset. I enjoy working with cutting-edge tools and techniques to create user-friendly interfaces that engage and delight users.
 
