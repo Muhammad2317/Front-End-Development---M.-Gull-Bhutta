@@ -1,4 +1,4 @@
-<img src='https://www.figma.com/file/8Qb1hYcHxfnvpUeuO8rjRP/Untitled?node-id=69%3A2&t=AdPvkCdSHoSaSJ40-4' alt='My Banner'/>
+<img src='https://user-images.githubusercontent.com/120671402/219975599-2e2b6a6b-b6ec-4df5-a18f-714ca4069c93.png' alt='My Banner'/>
 
 Hi! Welcome to my Github profile!
 
