@@ -1,0 +1,236 @@
+body {
+  margin:  0px;
+  overflow-x: hidden;
+}
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.blue-container {
+  background-image: url('https://images.unsplash.com/photo-1557683325-3ba8f0df79de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGJsdWUlMjBncmFkaWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1600&q=60');
+  text-align: center;
+  border: 2px solid rgb(143, 143, 143);
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  box-shadow: 2px 2px 2px rgb(138, 137, 137);
+}
+
+span {
+  display: block;
+  font-size: 100px;
+  font-family: arial;
+  font-weight: bolder;
+  color: white;
+}
+
+.red-button-container {
+  text-align: center;
+  display: inline-block;
+  width: 200px;
+  height: 50px;
+  margin-top: 25px;
+}
+
+.btn {
+  margin: 10px;
+  background-color: #fd5e81;
+  border: none;
+  border-radius: 5px;
+  width: 50px;
+  height: 30px;
+  color: white;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.btn:hover {
+  box-shadow: 2px 3px 2px rgb(138, 137, 137);
+  transition: box-shadow 0.55s;
+}
+.special-btn {
+  margin: 10px;
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+  border: none;
+  background-color: #f7c53e;
+  font-family: Lucida Sans Unicode;
+}
+.special-btn:hover {
+  box-shadow: 2px 3px 2px rgb(138, 137, 137);
+  transition: box-shadow 0.55s;
+}
+
+ul {
+  width: 100%;
+  list-style: none;
+  padding: 0 0.25rem 0.25rem;
+}
+
+ul li::before {
+  content: '\200B';
+}
+
+.item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0.5rem 0 0.5rem 0.5rem;
+  margin: 0.25rem ;
+  background-color: #f7c53e;
+  border-radius: 15px;
+}
+
+.item:first-child {
+  margin: 0;
+}
+.item input[type='checkbox'] {
+  text-align: center;
+  width: 48px;
+  min-width: 48px;
+  height: 2.5rem;
+  margin-right: 0.5rem;
+}
+.item input[type='checkbox']:focus + label {
+  text-decoration: underline;
+}
+
+.item > label {
+  font-size: 1.5rem;
+  flex-grow: 1;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.item > button {
+  background-color:#fd5e81;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 15px;
+  margin-right: 10px;
+}
+
+.emptyMessage {
+  font-family: arial;
+  background-color: #fd5e81;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  border-radius: 15px;
+  color: aliceblue;
+  width: 100%;
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  height: 50px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.headerTitle {
+  display: inline-block;
+}
+footer {
+  display: flex;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  background-color: aqua;
+  height: 50px;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+
+.addForm {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0.5rem 0 0;
+  padding: 0 0.5rem 0.25rem;
+  border-bottom: 1px solid #eee;
+  margin-top: 10px;
+}
+
+.addForm label {
+  position: absolute;
+  left: -99999px;
+}
+
+#addItem {
+  flex-grow: 1;
+  max-width: calc(100% - 50px);
+  min-height: 48px;
+  font-size: 20px;
+  padding: 0.25rem;
+  border-radius: 5px;
+  margin-right: 0.25rem;
+  border: 5px solid #fd5e81;
+}
+#addItem::placeholder {
+  font-size: 15px;
+  font-family: Arial;
+}
+
+
+
+button {
+  height: 48px;
+  min-width: 48px;
+  border-radius: 0.25rem;
+  padding: 0.5rem;
+  font-size: 1rem;
+  background-color: aliceblue;
+  border: 5px solid #f7c53e;
+  margin-right: 12px;
+}
+ 
+button:hover {
+  background-color:#e9365c;
+  outline: none;
+  transition: background-color 0.25s;
+}
+
+.searchForm {
+  margin-top: 60px;
+}
+
+
+
+.searchForm input {
+  border: 5px solid #f7c53e;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 0.5rem;
+}
+
+.searchForm label {
+  position: absolute;
+  left: -99999px;
+}
+.searchForm input {
+  color: black;
+  font-size: 20px;
+  padding: 0.25rem;
+  border-radius: 5px;
+  width: 90%;
+}
+.searchForm input::placeholder {
+  font-family: arial;
+  color: black;
+  font-size: 15px;
+}
