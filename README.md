@@ -12,6 +12,10 @@ Skills
 
 I am proficient in HTML5, CSS3, JavaScript, and ReactJS, and I am always eager to learn new technologies and frameworks to expand my skillset. I enjoy working with cutting-edge tools and techniques to create user-friendly interfaces that engage and delight users.
 
+Projects
+
+<a href='https://stackblitz.com/@Muhammad2317'>Stackblitz</a>
+
 Contact me in any time!
 
 <a href='https://www.instagram.com/muhammad.g.s.bhutta' target="_blank"><img src='https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.png' style="width:50px;"><a href='https://www.instagram.com/'></a></img></a>
