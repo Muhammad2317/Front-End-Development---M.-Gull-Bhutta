@@ -4,14 +4,11 @@ Hi! Welcome to my Github profile!
 
 About Me
 
-I was born in Pakistan, moved to Italy (i lived there most of my life) and currently living in England. I can speak fluent urdu and italian language and i can speak pretty good english aswell.
-I am a passionate and determined person who is aiming to become a professional front-end developer. My focus is on developing websites and web applications that are visually stunning, easy to use and cretive.
-As an aprentice, I understand the importance of collaboration, communication, and attention to detail. I am a team player who is always open to feedback and constructive criticism, and I am committed to delivering top-quality work on time and on budget.
+I'm a trainee developer constantly looking ofr new skills to aquire and new tools to learn and use.
+As a beginner, I understand the importance of collaboration, communication, and attention to detail. I am a team player who is always open to feedback and constructive criticism, and I am committed to delivering top-quality work on time.
 
 Skills 
-
-I am proficient in HTML5, CSS3, JavaScript, and ReactJS, and I am always eager to learn new technologies and frameworks to expand my skillset. I enjoy working with cutting-edge tools and techniques to create user-friendly interfaces that engage and delight users.
-
+![html_logo](https://github.com/Muhammad2317/Front-End-Development---M.-Gull-Bhutta/assets/120671402/cafe192f-b7e3-40cd-9c71-8cd5eac1ce6e)
 Projects
 
 <a href='https://stackblitz.com/@Muhammad2317'>Stackblitz</a>
